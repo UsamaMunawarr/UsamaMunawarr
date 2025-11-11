@@ -36,9 +36,9 @@ I am **Certified Data Analyst** and **Data Scientist**  with a demonstrated hist
 `📜Google Certified Data Analyst` | `📜Google Advanced Certified Data Analyst` | `📊IBM Data Science Specialization` | `🤖DeepLearning.AI TensorFlow Developer Specialization` | `📜University of Michigan Certified in Data Science with Python` |  `📜University of John Hopkins Certified in JavaScript, HTML, CSS`
 
 On my YouTube channel I am creating tutorials for people who:
--	… are looking for a way to leverage the power of Python in their day-to-day work.
-- … are struggling with repetitive tasks in R Programing
--	… want to learn Data Analysis & Data Science to perform meaningful and impactful analyses.
+	… are looking for a way to leverage the power of Python in their day-to-day work.
+ … are struggling with repetitive tasks in R Programing
+	… want to learn Data Analysis & Data Science to perform meaningful and impactful analyses.
 
 If this sounds interesting to you, consider subscribing and turning on the notifications, so you don’t miss any content🚀.
 
