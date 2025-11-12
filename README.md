@@ -15,15 +15,27 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@CodeBaseStats" target="_blank"><img width="32px" alt="YouTube" title="YouTube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@CodeBaseStats" target="_blank">
+    <img width="32px" alt="YouTube" title="YouTube" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" style="fill:#36BCF7FF"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/abu--usama" target="_blank"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/abu--usama" target="_blank">
+    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" style="fill:#36BCF7FF"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/Usama__Munawar?t=Wk-zJ88ybkEhYJpWMbMheg&s=09" target="_blank"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  <!-- Twitter -->
+  <a href="https://twitter.com/Usama__Munawar?t=Wk-zJ88ybkEhYJpWMbMheg&s=09" target="_blank">
+    <img width="32px" alt="Twitter" title="Twitter" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" style="fill:#36BCF7FF"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/Usama-Munawar" target="_blank"><img width="32px" alt="GitHub" title="GitHub" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <!-- GitHub -->
+  <a href="https://github.com/Usama-Munawar" target="_blank">
+    <img width="32px" alt="GitHub" title="GitHub" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" style="fill:#36BCF7FF"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <!-- Facebook SVG with matching color -->
+  <!-- Facebook -->
   <a href="https://www.facebook.com/profile.php?id=100005320726463&mibextid=9R9pXO" target="_blank">
     <img width="32px" alt="Facebook" title="Facebook" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" style="fill:#36BCF7FF"/>
   </a>
