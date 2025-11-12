@@ -1,8 +1,9 @@
 [![MastHead](mm.png)](https://www.youtube.com/@CodeBaseStats)
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1&pause=9999999&width=435&lines=ABU+USAMA" alt="Static Name" />
-</a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1&pause=9999999&width=435&lines=ABU+USAMA" alt="Static Name" />
+  </a>
+</p>
 
 
 <p align="center">
