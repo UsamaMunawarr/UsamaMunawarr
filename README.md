@@ -7,10 +7,9 @@
   </a>
 </p>
 
-<p align="center" style="margin-top:-8px; line-height:1.1;">
-  <!-- Animated Tagline -->
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist+and+AI+Researcher;4%2B+yrs+experience+in+ML+%E2%80%A2+DL+%E2%80%A2+NLP+%E2%80%A2+GenAI+%E2%80%A2+CV;Skilled+in+Python%2C+R%2C+Streamlit+and+Statistical+Analysis;Always+learning+new+technologies+and+building+projects&font=Fira+Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&pause=1000&size=22&weight=500" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist+and+AI+Researcher;4%2B+yrs+experience+in+ML%20%E2%80%A2%20DL%20%E2%80%A2%20NLP%20%E2%80%A2%20GenAI%20%E2%80%A2%20CV;Skilled+in+Python,+R,+Streamlit+and+Statistical+Analysis;Always+learning+new+technologies+and+building+projects&font=Fira+Code&center=true&width=720&height=50&color=f75c7e&vCenter=true&pause=1000&size=22&weight=500" />
   </a>
 </p>
 
