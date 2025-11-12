@@ -45,7 +45,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 
-## I am a `Data Scientist` / `Statistician` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Pakistan. 
+## I am a `Data Scientist` / `AI Researcher` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Pakistan. 
 
 
 
