@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <!-- Animated Tagline -->
+  <!-- Animated Tagline, multi-line for long text -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist;4%2B%20yrs%20in%20ML%20%E2%80%A2%20DL%20%E2%80%A2%20NLP%20%E2%80%A2%20GenAI%20%E2%80%A2%20CV;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist+and+AI+Researcher;4%2B+yrs+experience+in+ML+%E2%80%A2+DL+%E2%80%A2+NLP+%E2%80%A2+GenAI+%E2%80%A2+CV;Skilled+in+Python%2C+R%2C+Streamlit+and+Statistical+Analysis;Always+learning+new+technologies+and+building+projects&font=Fira+Code&center=true&width=650&height=50&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
