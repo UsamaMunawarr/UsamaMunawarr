@@ -1,16 +1,16 @@
 [![MastHead](mm.png)](https://www.youtube.com/@CodeBaseStats)
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1&pause=9999999&width=435&lines=ABU+USAMA" alt="Static Name" />
+  <!-- Static Name as an image -->
+  <a href="https://github.com/yourusername">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=9999999&width=500&lines=ABU+USAMA" alt="ABU USAMA" />
   </a>
 </p>
 
-
 <p align="center">
-  <!-- Animated Tagline -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&width=650&lines=Data+Scientist;4%2B+yrs+in+ML+%E2%80%A2+DL+%E2%80%A2+NLP+%E2%80%A2+GenAI+%E2%80%A2+CV;Always+learning+new+technologies+" alt="Typing Tagline" />
+  <!-- Typing SVG for tagline -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?lines=Data%20Scientist;4%2B%20yrs%20in%20ML%20%E2%80%A2%20DL%20%E2%80%A2%20NLP%20%E2%80%A2%20GenAI%20%E2%80%A2%20CV;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=500&height=45&color=1abc9c&vCenter=true&pause=1000&size=24" />
   </a>
 </p>
 
