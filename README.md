@@ -1,11 +1,11 @@
 [![MastHead](mm.png)](https://www.youtube.com/@CodeBaseStats)
 
 <p align="center">
-  <!-- Static Name -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=1&pause=9999999&width=600&lines=ABU+USAMA" alt="Static Name" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1&pause=9999999&width=435&lines=ABU+USAMA" alt="Static Name" />
   </a>
 </p>
+
 
 <p align="center">
   <!-- Animated Tagline -->
