@@ -1,13 +1,14 @@
 [![MastHead](mm.png)](https://www.youtube.com/@CodeBaseStats)
+
 <p align="center">
-  <!-- Name -->
+  <!-- Static Name -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&width=600&lines=ABU+USAMA" alt="Typing Name" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=1&pause=9999999&width=600&lines=ABU+USAMA" alt="Static Name" />
   </a>
 </p>
 
 <p align="center">
-  <!-- Tagline -->
+  <!-- Animated Tagline -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&width=650&lines=Data+Scientist;4%2B+yrs+in+ML+%E2%80%A2+DL+%E2%80%A2+NLP+%E2%80%A2+GenAI+%E2%80%A2+CV;Always+learning+new+technologies+" alt="Typing Tagline" />
   </a>
