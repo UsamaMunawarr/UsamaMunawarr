@@ -1,9 +1,13 @@
 [![MastHead](m.png)](https://www.youtube.com/@CodeBaseStats)
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Data+Scientist;4%2B+yrs+in++ML+%E2%80%A2+DL+%E2%80%A2+NLP+%E2%80%A2+GenAI+%E2%80%A2+CV;Always+learning+new+technologies+" alt="Typing SVG" /></a>
+
+<p align="center">
 <div id="badges" style="text-align: center;">
   <a href="https://www.linkedin.com/in/abu--usama">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+</p>
   <a href="https://www.facebook.com/profile.php?id=100005320726463&mibextid=9R9pXO">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
