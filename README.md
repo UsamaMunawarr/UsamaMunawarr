@@ -23,7 +23,10 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/Usama-Munawar" target="_blank"><img width="32px" alt="GitHub" title="GitHub" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.facebook.com/profile.php?id=100005320726463&mibextid=9R9pXO" target="_blank"><img width="32px" alt="Facebook" title="Facebook" src="https://i.imgur.com/d5RQlWK.png"/></a>
+  <!-- Facebook SVG with matching color -->
+  <a href="https://www.facebook.com/profile.php?id=100005320726463&mibextid=9R9pXO" target="_blank">
+    <img width="32px" alt="Facebook" title="Facebook" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" style="fill:#36BCF7FF"/>
+  </a>
 </p>
 
 
