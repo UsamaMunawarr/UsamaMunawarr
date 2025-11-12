@@ -14,6 +14,29 @@
   </a>
 </p>
 
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/abu--usama" target="_blank">
+    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://github.com/Usama-Munawar" target="_blank">
+    <img width="32px" alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/Usama__Munawar?t=Wk-zJ88ybkEhYJpWMbMheg&s=09" target="_blank">
+    <img width="32px" alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.youtube.com/@CodeBaseStats" target="_blank">
+    <img width="32px" alt="YouTube" title="YouTube" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.facebook.com/profile.php?id=100005320726463&mibextid=9R9pXO" target="_blank">
+    <img width="32px" alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
+
 
 <p align="center">
 <div id="badges" style="text-align: center;">
