@@ -1,13 +1,21 @@
 [![MastHead](mm.png)](https://www.youtube.com/@CodeBaseStats)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Data+Scientist;4%2B+yrs+in++ML+%E2%80%A2+DL+%E2%80%A2+NLP+%E2%80%A2+GenAI+%E2%80%A2+CV;Always+learning+new+technologies+" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
+</p>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 <p align="center">
 <div id="badges" style="text-align: center;">
   <a href="https://www.linkedin.com/in/abu--usama">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</p>
   <a href="https://www.facebook.com/profile.php?id=100005320726463&mibextid=9R9pXO">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
