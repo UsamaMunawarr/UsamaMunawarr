@@ -3,17 +3,16 @@
 <p align="center" style="line-height:1;">
   <!-- Static Name -->
   <a href="https://github.com/yourusername">
-    <img src="https://readme-typing-svg.demolab.com/?lines=ABU+USAMA&font=Fira+Code&center=true&width=600&height=40&color=36BCF7FF&size=32&weight=500&duration=1&pause=9999999" alt="ABU USAMA" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=ABU+USAMA&font=Fira+Code&center=true&width=600&height=50&color=36BCF7FF&size=32&weight=500&duration=1&pause=9999999" alt="ABU USAMA" />
   </a>
 </p>
 
-<p align="center" style="margin-top:-10px; line-height:1;">
+<p align="center" style="margin-top:-12px; line-height:1.1;">
   <!-- Animated Tagline -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist+and+AI+Researcher;4%2B+yrs+experience+in+ML%20%E2%80%A2%20DL%20%E2%80%A2%20NLP%20%E2%80%A2%20GenAI%20%E2%80%A2%20CV;Skilled+in+Python,+R,+Streamlit+and+Statistical+Analysis;Always+learning+new+technologies+and+building+projects&font=Fira+Code&center=true&width=720&height=40&color=36BCF7FF&vCenter=true&pause=1000&size=22&weight=500" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist+and+AI+Researcher;4%2B+yrs+experience+in+ML%20%E2%80%A2%20DL%20%E2%80%A2%20NLP%20%E2%80%A2%20GenAI%20%E2%80%A2%20CV;Skilled+in+Python,+R,+Streamlit+and+Statistical+Analysis;Always+learning+new+technologies+and+building+projects&font=Fira+Code&center=true&width=720&height=50&color=36BCF7FF&vCenter=true&pause=1000&size=22&weight=500" />
   </a>
 </p>
-
 
 
 
