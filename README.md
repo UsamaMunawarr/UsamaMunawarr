@@ -46,7 +46,7 @@
 ---
 <!-- ✨ Quote or Tagline -->
 <p align="center">
-  <em>“Transforming Data into Insights — AI • ML • Data Science • Research.”</em>
+  <em>“Transforming Data into Insights : AI • ML • Data Science • Statistician • Research.”</em>
 </p>
 
 ![MastHead](MLAI.png)
