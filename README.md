@@ -1,12 +1,4 @@
 
-![MastHead](MLAI.png)
-
-
-
-
-
-
-
 <p align="center">
 <div id="badges" style="text-align: center;">
   <a href="https://www.linkedin.com/in/abu--usama">
@@ -25,6 +17,17 @@
 <div id="badges" style="text-align: center;">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
+
+
+![MastHead](MLAI.png)
+
+
+
+
+
+
+
+
 
 <h1 style="text-align: center;">
   Hey There!
