@@ -40,24 +40,10 @@
 
 <!-- 👀 Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UsamaMunawar&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
 ---
-
-<!-- 📊 GitHub Stats Section -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UsamaMunawar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UsamaMunawar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-</p>
-
-<!-- 💡 Top Languages Card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaMunawar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
-</p>
-
----
-
 <!-- ✨ Quote or Tagline -->
 <p align="center">
   <em>“Transforming Data into Insights — AI • ML • Data Science • Research.”</em>
