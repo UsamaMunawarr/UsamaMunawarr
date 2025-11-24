@@ -1,4 +1,4 @@
-
+<!----
 <p align="center">
 <div id="badges" style="text-align: center;">
   <a href="https://www.linkedin.com/in/abu--usama">
@@ -17,7 +17,51 @@
 <div id="badges" style="text-align: center;">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
+--->
 
+<!-- 🌟 Social Media Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/abu--usama">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100005320726463&mibextid=9R9pXO">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@CodeBaseStats">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
+  <a href="https://twitter.com/Usama__Munawar?t=Wk-zJ88ybkEhYJpWMbMheg&s=09">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.kaggle.com/usamamunawar">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+</p>
+
+<!-- 👀 Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=UsamaMunawar&style=flat-square&color=blue" alt="Profile views"/>
+</p>
+
+---
+
+<!-- 📊 GitHub Stats Section -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UsamaMunawar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UsamaMunawar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+</p>
+
+<!-- 💡 Top Languages Card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaMunawar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
+</p>
+
+---
+
+<!-- ✨ Quote or Tagline -->
+<p align="center">
+  <em>“Transforming Data into Insights — AI • ML • Data Science • Research.”</em>
+</p>
 
 ![MastHead](MLAI.png)
 
