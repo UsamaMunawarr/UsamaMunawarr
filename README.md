@@ -49,7 +49,7 @@
   <em>“Transforming Data into Insights : AI • ML • Data Science • Statistics • Research.”</em>
 </p>
 
-#![MastHead](MLAI.png)
+ [![MastHead](MLAI.png)]:#
 
 
 
